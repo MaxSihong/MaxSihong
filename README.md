@@ -2,10 +2,12 @@
 
 我是一名PHP开发工程师，对开源和编程充满热爱~
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 - 🌱 个人网站：https://iomax.top
 - 👯 我希望在开源项目上进行更多的合作，也不断成长
 - 💬 也可以咨询我PHP相关的问题，MySQL也可以
-- 📫 如何联系我: 可以添加我的WeChat：czh010713 === 记得备注：github
+- 📫 如何联系我(记得备注 GitHub): ![](https://img.shields.io/badge/WeChat-czh010713-yellowgreen) ![](https://img.shields.io/badge/Email-maxsihong%40163.com-orange)
 - 😄 请多多指教
 
 ![](https://komarev.com/ghpvc/?username=MaxSihong)
