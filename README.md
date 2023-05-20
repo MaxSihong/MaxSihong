@@ -1,14 +1,17 @@
-### Hi there is Zhihong Chen. 👋
+### Hi there 👋
 
-我是一名PHP开发工程师，对开源和编程充满热爱~
+I'm Zhihong Chen. I am a PHP development engineer with a passion for open source and programming~
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 - 🌱 个人网站：https://iomax.top
 - 👯 我希望在开源项目上进行更多的合作，也不断成长
-- 💬 也可以咨询我PHP相关的问题，MySQL也可以
-- 📫 如何联系我(记得备注 GitHub): ![](https://img.shields.io/badge/WeChat-czh010713-yellowgreen) ![](https://img.shields.io/badge/Email-maxsihong%40163.com-orange)
+- 💬 也可以咨询我PHP或MySQL相关的问题
 - 😄 请多多指教
+- 📫 联系我
+    - GitHub： [NaturalGao](https://github.com/MaxSihong)
+    - Email： maxsihong@163.com | maxsihong@gmail.com
+    - WeChat: czh010713
 
 ![](https://komarev.com/ghpvc/?username=MaxSihong)
 
