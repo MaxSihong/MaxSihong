@@ -9,7 +9,7 @@ I'm Zhihong Chen. I am a PHP development engineer with a passion for open source
 - 💬 也可以咨询我PHP或MySQL相关的问题
 - 😄 请多多指教
 - 📫 联系我
-    - GitHub： [NaturalGao](https://github.com/MaxSihong)
+    - GitHub： [MaxSihong](https://github.com/MaxSihong)
     - Email： maxsihong@163.com | maxsihong@gmail.com
     - WeChat: czh010713
 
