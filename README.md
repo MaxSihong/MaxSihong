@@ -1,9 +1,10 @@
-### Hi there 👋
+### 大家好 👋
 
-I'm Zhihong Chen. I am a PHP development engineer with a passion for open source and programming~
+我是陈志洪。我是一名PHP开发工程师，对开源和编程充满热情~
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+- 👨‍💻 目前是全职的 PHPer
 - 🌱 个人网站：https://iomax.top
 - 👯 我希望在开源项目上进行更多的合作，也不断成长
 - 💬 也可以咨询我PHP或MySQL相关的问题
